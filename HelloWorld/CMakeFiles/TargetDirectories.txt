@@ -1,0 +1,3 @@
+/home/rajat/vector/test-hello/CMakeFiles/hello.dir
+/home/rajat/vector/test-hello/CMakeFiles/edit_cache.dir
+/home/rajat/vector/test-hello/CMakeFiles/rebuild_cache.dir
