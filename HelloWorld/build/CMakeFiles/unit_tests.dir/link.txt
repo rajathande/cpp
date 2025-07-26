@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/unit_tests.dir/test/main_test.cpp.o -o unit_tests  libmy_functions.a lib/libgtest_main.a lib/libgtest.a 
