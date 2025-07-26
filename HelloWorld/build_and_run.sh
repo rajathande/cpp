@@ -18,7 +18,7 @@ echo "--- Building project ---"
 cmake --build "${BUILD_DIR}"
 
 echo "--- Running application ---"
-"${PROJECT_ROOT_DIR}/${BUILD_DIR}/hello"
+"${PROJECT_ROOT_DIR}/${BUILD_DIR}/data_structures_demo"
 
 echo "--- Running unit tests ---"
 cd "${BUILD_DIR}"
